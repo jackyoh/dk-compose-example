@@ -8,3 +8,11 @@ Run docker-compose
 ```
 # docker-compose up
 ```
+Scaling
+```
+# docker-compose scale web=5
+```
+shutdown
+```
+docker-compose down
+```
